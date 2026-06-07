@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AnimeCai</title>
+<style>
+body{
+  background:#111;
+  color:white;
+  font-family:Arial;
+  text-align:center;
+}
+h1{
+  color:red;
+}
+.card{
+  background:#222;
+  margin:20px auto;
+  padding:20px;
+  width:300px;
+  border-radius:10px;
+}
+</style>
+</head>
+<body>
+
+<h1>AnimeCai</h1>
+<p>Welcome to AnimeCai</p>
+
+<div class="card">
+  <h2>Naruto</h2>
+</div>
+
+<div class="card">
+  <h2>One Piece</h2>
+</div>
+
+<div class="card">
+  <h2>Attack on Titan</h2>
+</div>
+
+</body>
+</html>
